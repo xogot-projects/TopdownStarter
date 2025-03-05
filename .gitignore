@@ -1,5 +1,5 @@
 # Godot-specific ignores
-.godot/editor/
+.godot/
 Export/
 .import/
 export.cfg
